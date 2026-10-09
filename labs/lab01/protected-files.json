@@ -1,0 +1,11 @@
+{
+  "app/api.py": "0963e0d0e3caf2b1f3942bbc805816ba2501b4f5f3d652aaf596a3724bdc4aa0",
+  "app/support/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "app/support/errors.py": "ce3b7a67a344a59c282e6dce34f178dd047466712697eaa8dbd9cace93fabaf3",
+  "app/support/types.py": "f32267fe07ccf33d49211e04ce3a022f00397eeb30c19a511a7737bd23439718",
+  "bonus_tests/test_bonus.py": "8f1d8324d30695ffe39a0e0684a2f4a314f6c41b4660a5c28ea49db0af29e9c0",
+  "conftest.py": "155c516061e0bfbe0f30e4215d6098c203a0fa0f7201afd88fe9de9b1459bddc",
+  "pytest.ini": "0a7768bbb53a890047c800347d2a817bbcc0294dfa4f48b8457954b5d75a6f5a",
+  "tests/test_contract.py": "43bb06b4f2f0d0eb246785d106c1c8e144b76d7b5d41a7ca9c1a37724d2bbaab",
+  "tests/test_review_contract.py": "ae82704731b354c59b81f9159340c29cc7981455c0c1efe80c281c66398eac03"
+}
